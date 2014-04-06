@@ -22,16 +22,14 @@ We need people that have skills with:
 * Web development (Django)
 * AI (Python, Lisp)
 
-Contact somebody (TODO: who?) to see what needs working on and to get
-added to [our Trello](https://trello.com/projectwaifudb), which we use
-to organize what needs to be done.
+What you need to do:
 
-What you need to do: TODO
-
-## Workflow For Team Members
-
-* Discuss the project on IRC
-* Add
+1. Decide what you want to work on (the website or the client).
+2. Contact somebody (TODO: who?) to get added to our
+   [Trello](https://trello.com/projectwaifudb).
+3. Do the tasks that still need to be done on Trello.
+4. Discuss the project on the [mailing
+   list](https://lists.sourceforge.net/lists/listinfo/waifubot-devs).
 
 ## Development
 
@@ -166,12 +164,14 @@ AI
 NLP
 : * <http://www.cse.iitk.ac.in/users/mohit/Speech-and-Language-Processing.pdf>
   * <https://class.coursera.org/nlp/lecture/preview>
-        <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074304> (Metaphor Analysis very interesting)
+  * <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074304>
+    (Metaphor Analysis very interesting)
 
 Semantic Nets and Reasoning
 : * <http://reasoninglab.psych.ucla.edu/KH%20pdfs/Holyoak_2012.pdf>
   * <http://www.academia.edu/407393/Frames_Semantic_Networks_and_Object-Oriented_Programming_In_APL2>
-  * (How to in lisp)<http://www.markwatson.com/opencontent_data/book_lisp.pdf>
+  * <http://www.markwatson.com/opencontent_data/book_lisp.pdf>
+    (How to in lisp)
 
 Neural Networks
 : * <http://en.wikibooks.org/wiki/Artificial_Neural_Networks>
