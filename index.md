@@ -19,6 +19,20 @@ can load assets and simulate your waifu.
 
 We do not have anything working for you just yet.  Check back soon! =)
 
+You can subscribe to our mailing list of you would like to follow
+development progress.
+
 ## If you want to contribute
 
 See [Contributing]({{ site.baseurl }}/contrib.html) above.
+
+## Mailing List, IRC, Discussions
+
+IRC
+: \#waifudb@rizon.net
+
+Mailing List
+: <https://lists.sourceforge.net/lists/listinfo/waifubot-devs>
+
+Teamspeak3
+: ts65.gameservers.com:9111

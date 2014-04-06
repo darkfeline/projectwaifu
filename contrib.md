@@ -44,13 +44,10 @@ Mailing List
 Teamspeak3
 : ts65.gameservers.com:9111
 
-### Code
+### Repositories
 
 Website
 : <https://github.com/hrkx/waifudb>
-
-Project Waifu (old client)
-: <http://projectwaifu.com/>
 
 Iona (alternative client)
 : <https://github.com/darkfeline/iona>
@@ -65,9 +62,28 @@ Blog
 
 ### Members List
 
-#### Project Manager
+#### Important People
 
-* bryciemicie <projectwaifu@gmail.com> \<Project Manager>
+Project Manager
+: bryciemicie <projectwaifu@gmail.com>
+
+Webmaster
+: darkfeline <darkfeline@cock.li>
+
+Mailing List Admin
+: darkfeline <darkfeline@cock.li>
+
+IRC Admin
+: ribsdibs <deribadib@gmail.com>
+
+Trello Owner
+: ???
+
+Website Repository Owner
+: ???
+
+Iona Repository Owner
+: darkfeline <darkfeline@cock.li>
 
 #### Web Development
 
