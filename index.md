@@ -21,35 +21,4 @@ We do not have anything working for you just yet.  Check back soon! =)
 
 ## If you want to contribute
 
-See [Contributing]({{ site.baseurl }}/contrib.html }}) above.
-
-## How To Contact Us
-
-IRC
-: \#waifudb@rizon.net
-
-Teamspeak3
-: ts65.gameservers.com:9111
-
-Mailing List
-: <https://lists.sourceforge.net/lists/listinfo/waifubot-devs>
-
-## Links
-
-Website
-: <https://github.com/hrkx/waifudb>
-
-Iona (alternative client)
-: <https://github.com/darkfeline/iona>
-
-Trello
-: <https://trello.com/projectwaifudb>
-
-AI/Language/Books Pastebin
-: <http://pastebin.com/gKUFWMZc>
-
-Blog
-: <http://projectwaifu.org/>
-
-Project Waifu (old client)
-: <http://projectwaifu.com/>
+See [Contributing]({{ site.baseurl }}/contrib.html) above.

@@ -15,25 +15,39 @@ body {
   text-align: center;
 }
 
-h1 { font-size: 125% }
-h2 { font-size: 120% }
-h3 { font-size: 115% }
-h4 { font-size: 110% }
-h5 { font-size: 105% }
+h1 { font-size: 130% }
+h2 { font-size: 125% }
+h3 { font-size: 120% }
+h4 { font-size: 115% }
+h5 { font-size: 110% }
 h6 { font-size: 100% }
 
-h1 { margin-top: 0.1em; margin-bottom: 1em; }
-h2 { margin-top: 0.1em; margin-bottom: 0.5em; }
-h3 { margin-top: 0.1em; margin-bottom: 0.3em; }
-h4 { margin-top: 0.1em; margin-bottom: 0.3em; }
-h5 { margin-top: 0.1em; margin-bottom: 0.3em; }
-h6 { margin-top: 0.1em; margin-bottom: 0.3em; }
+h1 { margin-top: 0em; margin-bottom: 0.5em; }
+h2 { margin-top: 0.8em; margin-bottom: 0.4em; }
+h3 { margin-top: 0.8em; margin-bottom: 0.4em; }
+h4 { margin-top: 0.5em; margin-bottom: 0.3em; }
+h5 { margin-top: 0.5em; margin-bottom: 0.3em; }
+h6 { margin-top: 0.5em; margin-bottom: 0.3em; }
 
-p { margin: 1em 0; }
+p { margin: 0.3em 0.7em; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+
+ol, ul {
+  margin-left: 25px;
+}
+
+dt {
+  color: #0066CC;
+  font-weight: bold;
+}
+
+dd {
+  background:none no-repeat left top;
+  margin-left: 25px;
+}
 
 /* Home {{{1 */
 .posts {
@@ -151,16 +165,6 @@ a:visited { color: #a0a; }
 
 .post pre.terminal code {
   background-color: #333;
-}
-
-/* Other {{{1 */
-dt {
-  color: #0066CC;
-  font-weight: bold;
-}
-dd {
-  background:none no-repeat left top;
-  padding-left: 50px;
 }
 
 /* vim: fdm=marker sw=2 */
