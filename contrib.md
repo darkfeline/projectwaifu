@@ -26,6 +26,61 @@ Contact somebody (TODO: who?) to see what needs working on and to get
 added to [our Trello](https://trello.com/projectwaifudb), which we use
 to organize what needs to be done.
 
+What you need to do: TODO
+
+## Workflow For Team Members
+
+* Discuss the project on IRC
+* Add
+
+## Development
+
+### Mailing List, IRC, Discussions
+
+IRC
+: \#waifudb@rizon.net
+
+Mailing List
+: <https://lists.sourceforge.net/lists/listinfo/waifubot-devs>
+
+Teamspeak3
+: ts65.gameservers.com:9111
+
+### Code
+
+Website
+: <https://github.com/hrkx/waifudb>
+
+Project Waifu (old client)
+: <http://projectwaifu.com/>
+
+Iona (alternative client)
+: <https://github.com/darkfeline/iona>
+
+### Links
+
+Trello
+: <https://trello.com/projectwaifudb>
+
+Blog
+: <http://projectwaifu.org/>
+
+### Members List
+
+#### Project Manager
+
+* bryciemicie <projectwaifu@gmail.com> \<Project Manager>
+
+#### Web Development
+
+* Bakaboykie <bakaboykie@gmail.com> \<Database Designer>
+* satiricon <david.satiricon@gmail.com> \<Web Developer>
+
+#### Client/AI
+
+* Otsdarva <morgan.adam.oliver@gmail.com> \<Client/AI>
+* ribsdibs <deribadib@gmail.com> \<Client/AI>
+
 ## Resources
 
 ### Documents
@@ -131,39 +186,5 @@ Hidden Neural Networks (Hybrid HMM/NN)
 ### Terminology
 
 Assets
-: Files related to waifus (Pictures, Sounds, Animations, etc.)
+: Files related to waifus (pictures, sounds, animations, etc.)
 
-### Members List
-
-#### Project Manager
-
-* bryciemicie <projectwaifu@gmail.com> \<Project Manager>
-
-#### Web Development
-
-* Bakaboykie <bakaboykie@gmail.com> \<Database Designer>
-* satiricon <david.satiricon@gmail.com> \<Web Developer>
-
-#### Client/AI
-
-* Otsdarva <morgan.adam.oliver@gmail.com> \<Client/AI>
-* ribsdibs <deribadib@gmail.com> \<Client/AI>
-
-### Code
-
-Website
-: <https://github.com/hrkx/waifudb>
-
-Project Waifu (old client)
-: <http://projectwaifu.com/>
-
-Iona (alternative client)
-: <https://github.com/darkfeline/iona>
-
-### Links
-
-Trello
-: <https://trello.com/projectwaifudb>
-
-Blog
-: <http://projectwaifu.org/>
