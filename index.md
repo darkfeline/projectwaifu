@@ -7,38 +7,23 @@ title: Project W/a/ifu
 
 ## About
 
-Project Waifu (name not final) will be an online website where users
-will be able to download “assets” on Waifu’s, meaning, if the user has a
-waifusim client he can just choose a waifu from a list and the waifusim
-client will download pictures, sounds, animations, etc.  From there, the
-desktop client will use those files to simulate your waifu.
+Project Waifu is a project dedicated to bring our beloved waifus to
+life.
 
-## Links
+The project consists of two parts.  The website part aims to create a
+catalog where users will be able to upload and download asset files that
+define different waifus.  The client/AI part aims to create a client can
+can load assets and simulate your waifu.
 
-* <https://github.com/hrkx/waifudb>
-* <https://github.com/darkfeline/iona> # Felines github
-* <https://trello.com/projectwaifudb>
-* <http://pastebin.com/gKUFWMZc> # AI/Language/Books Pastebin
-* <http://projectwaifu.org/> # Blog
-* <http://projectwaifu.com/> # Client website
-* <https://github.com/pteichman/cobe> # Interesting Chatbot
+## If you are looking for a waifu
 
-## Documents/Research
+We do not have anything working for you just yet.  Check back soon! =)
 
-### Daisy AI
+## If you want to contribute
 
-* <https://github.com/loadletter/pydaisy/tree/master/sqlite>
+See [Contributing]({{ site.baseurl }}/contrib.html }}) above.
 
-### Underlying vocabulary engine
-
-* <https://github.com/sgthale/waifubot/blob/master/concept>
-* <https://github.com/sgthale/waifubot/blob/master/Concept%20-%20Core%20Engine>
-
-### Natural Language Processing
-
-* <http://www.cliki.net/natural%20language%20processing>
-
-## Communication
+## How To Contact Us
 
 IRC
 : \#waifudb@rizon.net
@@ -49,18 +34,22 @@ Teamspeak3
 Mailing List
 : <https://lists.sourceforge.net/lists/listinfo/waifubot-devs>
 
-## Trello board slang
+## Links
 
-Assets
-: Files related to waifus (Pictures, Sounds, Animations, etc.)
+Website
+: <https://github.com/hrkx/waifudb>
 
-## To members of Project WaifuDB
+Iona (alternative client)
+: <https://github.com/darkfeline/iona>
 
-Feel free to add new ideas to the ideas board, and add comments/new
-cards to other boards if it is relevant.
+Trello
+: <https://trello.com/projectwaifudb>
 
-## To everyone interested
+AI/Language/Books Pastebin
+: <http://pastebin.com/gKUFWMZc>
 
-Feel free to mail ideas and/or feedback. Please refrain from sending
-"WHEN IS IT DONE" and such, because we are still planning things right
-now.
+Blog
+: <http://projectwaifu.org/>
+
+Project Waifu (old client)
+: <http://projectwaifu.com/>
