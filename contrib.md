@@ -20,16 +20,18 @@ this section.
 We need people that have skills with:
 
 * Web development (Django)
-* AI (Python, Lisp)
+* Programming/AI (Python, Lisp)
 
 What you need to do:
 
-1. Decide what you want to work on (the website or the client).
-2. Contact somebody (TODO: who?) to get added to our
-   [Trello](https://trello.com/projectwaifudb).
-3. Do the tasks that still need to be done on Trello.
-4. Discuss the project on the [mailing
-   list](https://lists.sourceforge.net/lists/listinfo/waifubot-devs).
+1. Talk to us (on the mailing list or in IRC) about contributing and
+   what you can work on.
+2. SUBSCRIBE TO THE MAILING LIST.
+3. Get the permissions you need.  You'll need access to Trello and
+   write access to either the catalog code or client code.  Ask on IRC
+   or on the mailing list.
+4. Discuss the project on the mailing list, and keep track of tasks on
+   Trello.
 
 ## Development
 
@@ -46,8 +48,8 @@ Teamspeak3
 
 ### Repositories
 
-Website
-: <https://github.com/hrkx/waifudb>
+Catalog (website/database code)
+: <https://github.com/project-waifu/waifudb>
 
 Iona (alternative client)
 : <https://github.com/darkfeline/iona>
@@ -60,147 +62,9 @@ Trello
 Blog
 : <http://projectwaifu.org/>
 
-### Members List
+Resources
+: [{{ site.baseurl }}/resources.html]({{ site.baseurl }}/resources.html)
 
-#### Important People
-
-Project Manager
-: bryciemicie <projectwaifu@gmail.com>
-
-Webmaster
-: darkfeline <darkfeline@cock.li>
-
-Mailing List Admin
-: darkfeline <darkfeline@cock.li>
-
-IRC Admin
-: ribsdibs <deribadib@gmail.com>
-
-Trello Owner
-: ???
-
-Website Repository Owner
-: ???
-
-Iona Repository Owner
-: darkfeline <darkfeline@cock.li>
-
-#### Web Development
-
-* Bakaboykie <bakaboykie@gmail.com> \<Database Designer>
-* satiricon <david.satiricon@gmail.com> \<Web Developer>
-
-#### Client/AI
-
-* Otsdarva <morgan.adam.oliver@gmail.com> \<Client/AI>
-* ribsdibs <deribadib@gmail.com> \<Client/AI>
-
-## Resources
-
-### Documents
-
-Iona design documents
-: * [v0.1d2](https://github.com/darkfeline/iona-design/blob/v0.1d2/design.md)
-
-### Research and References
-
-#### Old Bots
-
-Alfred
-: * <http://www.tempsend.com/3484965286>
-
-Daisy (original)
-: * <http://www.leedberg.com/glsoft/daisy/>
-
-Daisy (Python port)
-: * <https://github.com/loadletter/pydaisy>
-
-Prelude (original, Open Source)
-: * <https://github.com/novalis78/prelude-engine/>
-  * <https://code.google.com/p/prelude-csharp/downloads/list>
-
-WaifuProject
-: * <http://projectwaifu.com/>
-
-COBE
-: * <https://github.com/pteichman/cobe>
-
-#### Tools
-
-NLP
-: * <http://www.nltk.org/>
-  * <http://www.cliki.net/natural%20language%20processing>
-  * <http://nlp.stanford.edu/software/index.shtml>
-  * <http://www.ark.cs.cmu.edu/#resources>
-
-Semantic Net
-: * <http://sentic.net/downloads/>
-  * <http://www.cliki.net/semantic%20web>
-
-Sentiment Analysis
-: * <http://quickdocs.org/cl-sentiment/api>
-  * <http://sentic.net/downloads/>
-
-Reasoning
-: * <http://reasoner.sourceforge.net/>
-
-Neural Networks
-: * <http://pybrain.org/pages/features>
-  * <http://neuralensemble.org/PyNN/>
-  * <http://www.neuron.yale.edu/neuron/>
-  * <http://briansimulator.org/>
-  * <http://ann-clisp.sourceforge.net/>
-
-Hidden Markov Models
-: * <http://code.google.com/p/hmmpytk/>
-  * <http://ghmm.org/>
-  * <https://github.com/johanbev/mulm>
-
-Speech Recognition
-: * <http://cmusphinx.sourceforge.net/>
-  * <http://julius.sourceforge.jp/en_index.php>
-  * <http://kaldi.sourceforge.net/about.html>
-  * <http://www.voxforge.org/>
-  * <http://simon-listens.blogspot.com/>
-
-Vocab Engine
-: * <https://github.com/sgthale/waifubot>
-  * <https://github.com/sgthale/waifubot/blob/master/concept>
-  * <https://github.com/sgthale/waifubot/blob/master/Concept%20-%20Core%20Engine>
-
-#### Books and Courses
-
-Wikipedia is a decent place to start if you haven't looked already.
-
-AI
-: * <http://tinyurl.com/NorvigAI>
-  * <https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/info>
-  * <https://www.udacity.com/course/cs271>
-
-NLP
-: * <http://www.cse.iitk.ac.in/users/mohit/Speech-and-Language-Processing.pdf>
-  * <https://class.coursera.org/nlp/lecture/preview>
-  * <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074304>
-    (Metaphor Analysis very interesting)
-
-Semantic Nets and Reasoning
-: * <http://reasoninglab.psych.ucla.edu/KH%20pdfs/Holyoak_2012.pdf>
-  * <http://www.academia.edu/407393/Frames_Semantic_Networks_and_Object-Oriented_Programming_In_APL2>
-  * <http://www.markwatson.com/opencontent_data/book_lisp.pdf>
-    (How to in lisp)
-
-Neural Networks
-: * <http://en.wikibooks.org/wiki/Artificial_Neural_Networks>
-  * <http://page.mi.fu-berlin.de/rojas/neural/neuron.pdf>
-  * <http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091213.pdf>
-  * <http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/NeuralNetsIntroductoryMaterial>
-  * <https://www.coursera.org/course/neuralnets>
-
-Hidden Neural Networks (Hybrid HMM/NN)
-: * <http://people.binf.ku.dk/~krogh/publications/pdf/KroghRiis99.pdf>
-
-### Terminology
-
-Assets
-: Files related to waifus (pictures, sounds, animations, etc.)
+Members
+: [{{ site.baseurl }}/members.html]({{ site.baseurl }}/members.html)
 

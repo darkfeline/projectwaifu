@@ -19,7 +19,7 @@ can load assets and simulate your waifu.
 
 We do not have anything working for you just yet.  Check back soon! =)
 
-You can subscribe to our mailing list of you would like to follow
+You can subscribe to our mailing list if you would like to follow
 development progress.
 
 ## If you want to contribute
